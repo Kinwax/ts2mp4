@@ -3,7 +3,7 @@ turn ts files to mp4 by drag
 
 v0.5
 · 整体用python重构
-· 修复了在run.bat批处理文件形式上，遇到ts文件名带感叹号时，显示找不到文件的问题。
+· 修复了在run.bat批处理文件形式上，遇到ts文件名带感叹号时，显示找不到文件的问题
 · 将ffmpeg.exe进行内嵌
 · 加入了程序图标
 
